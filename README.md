@@ -16,7 +16,7 @@ This project aims to:
 
 From 2014 to 2016, it can be said that Minecraft has exploded all over the world. In that era, many Minecraft communities and platforms were also born in mainland China. In 2016, NetEase obtained the right to represent Minecraft in Mainland China. In 2017, NetEase launched the China Edition of Minecraft and broke the way of Minecraft PE in mainland China. But the game experience of China Edition is very poor
 
-NetEase caused the decline of Minecraft in mainland China, and also caused [Mini World](https://www.miniworldgame.com/) (Minecraft's biggest competitor in China Mainland) has gradually increased in popularity.
+NetEase caused the decline of Minecraft in mainland China, and also caused [Mini World](https://www.miniworldgame.com/) (Minecraft's biggest competitor in mainland China) has gradually increased in popularity.
 
 ## How to anti NetEase
 
