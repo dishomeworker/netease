@@ -1,0 +1,29 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://yoursite.com
+title: 反对网易
+email: your-email@domain.com
+description: > # "Write an awesome description for your new site here. 
+  反对网易代理《我的世界》，抵制《我的世界中国版》
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  # - title: twitter
+  #   url: https://twitter.com/
+  - title: github
+    url: https://github.com/anti-netease
+  # - title: linkedin
+  #   url: 
